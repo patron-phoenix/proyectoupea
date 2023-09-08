@@ -1,4 +1,4 @@
-#para utilizar el proyecto restaura la base de datos mysql
+#para utilizar el proyecto restaura la base de datos mysql que se encuentra en la carpeta DB
  con el nombre de: proyectoupea
 
 #para iniciar sessión utiliza las siguientes credenciales
